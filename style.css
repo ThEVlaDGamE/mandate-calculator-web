@@ -1,0 +1,125 @@
+body {
+    background-color: #30965b;
+}
+
+h1 {
+    color: rgb(226, 4, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4vw;
+    text-align: center;
+}
+
+h5 {
+    color: rgb(88, 22, 97);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1vw;
+    text-align: center;
+}
+
+a:link {
+    color: blue;
+}
+a:active{
+    color: blue;
+}
+a:hover {
+    color: rgb(240, 240, 86);
+}
+
+
+.fon {
+    margin: auto;
+    width: 90%;
+    height: auto;
+    background-color: rgb(133, 219, 215);
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+
+.fon2 {
+    background-color: tomato;
+    width: 60%;
+    height: 100vh;
+    padding: 0.5%;
+    margin: 0% 1% 1% 1%;
+}
+
+.column {
+    float: left;
+    background-color: teal;
+    height: 90%;
+    width: 30%;
+    padding: 0.5%;
+    margin: 1% 1% 1% 1%;
+}
+
+
+.label {
+    background-color: rgb(29, 151, 139);
+    font-size: 1.3vw;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+
+.inputText {
+    height: auto;
+    width: 95%;
+    padding: 0.5%;
+    margin: 5% 1% 1% 1%;
+}
+
+
+
+
+.inputFields {
+    margin: 0 1% 1% 0;
+    padding-left: 10px;
+    width: 33%;
+}
+
+
+
+
+.button {
+    width: 45%; 
+    height: 45%;
+    font-size: 6vw;
+}
+.button_number {
+    margin-top: 5px;
+    width: 25%; 
+    height: 25%;
+    font-size: 3vw;
+}
+.button_number_fon {
+    margin: auto;
+    width: 25%;
+    padding-top: 10px;
+}
+.button_opers_fon {
+    margin: 0 35% 0 35%;
+    width: 30%;
+    padding-top: 10px;
+}
+.text1 {
+    margin: 5px auto;
+    background-color: cyan;
+    width: 50%;
+    align-content: center;
+    text-align: center;
+    font-size: 2vw;
+}
+
+
+
+
+.footer {
+    text-align: center;
+    font-size: 1.2vw;
+    margin: auto;
+    width: 90%;
+    height: auto;
+    background-color: rgb(133, 219, 215);
+}
