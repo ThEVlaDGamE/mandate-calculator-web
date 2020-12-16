@@ -29,17 +29,17 @@ a:hover {
 
 .fon {
     margin: auto;
-    width: 90%;
-    height: auto;
+    width: 90vw;
+    height: 100vh;
     background-color: rgb(133, 219, 215);
-    padding-bottom: 40px;
-    padding-top: 20px;
+    padding-bottom: 4%;
+    padding-top: 2%
 }
 
 .fon2 {
     background-color: tomato;
     width: 90%;
-    height: 100vh;
+    height: 90%;
     padding: 0.5%;
     margin: 0% 1% 1% 1%;
 }
@@ -50,13 +50,14 @@ a:hover {
     height: 90%;
     width: 20%;
     padding: 0.5%;
+    padding-bottom: 1.5%;
     margin: 1% 1% 1% 1%;
 }
 
 
 .label {
     background-color: rgb(29, 151, 139);
-    font-size: 1.3vw;
+    font-size: 130%;
     width: 100%;
     text-align: center;
     margin: auto;
@@ -78,50 +79,9 @@ a:hover {
     padding: 0.5%;
     margin: 5% 1% 1% 1%;
     text-align: center;
-    font-size: 1vw;
+    font-size: 130%;
 }
 
-
-
-
-.inputFields {
-    margin: 0 1% 1% 0;
-    padding-left: 10px;
-    width: 33%;
-}
-
-
-
-
-.button {
-    width: 45%; 
-    height: 45%;
-    font-size: 6vw;
-}
-.button_number {
-    margin-top: 5px;
-    width: 25%; 
-    height: 25%;
-    font-size: 3vw;
-}
-.button_number_fon {
-    margin: auto;
-    width: 25%;
-    padding-top: 10px;
-}
-.button_opers_fon {
-    margin: 0 35% 0 35%;
-    width: 30%;
-    padding-top: 10px;
-}
-.text1 {
-    margin: 5px auto;
-    background-color: cyan;
-    width: 50%;
-    align-content: center;
-    text-align: center;
-    font-size: 2vw;
-}
 
 
 
