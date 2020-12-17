@@ -47,14 +47,15 @@ function calculate() {
                             first_result[j] += 0.0001;
                         } else {
                             if (Math.random() >= 0.5) {
-                                first_result[i] += 0.0001;
+                                first_result[i] += Math.random() / 10000;
                             } else {
-                                first_result[j] += 0.0001;
+                                first_result[j] += Math.random() / 10000;
                             }
                         }
                     }
                 }
             }
+            console.log(first_result);
 
             let remains = all_mandates - mandates;
 
